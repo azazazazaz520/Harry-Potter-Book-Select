@@ -1,5 +1,5 @@
-#ifndef _SEARTH_H_
-#define _SEARTH_H_
+#ifndef _SEARCH_H_
+#define _SEARCH_H_
 #include <Windows.h>
 #include <string>
 #include <iomanip>
@@ -57,7 +57,7 @@ const void Search(const Book* book)
 			cha[l][i] = j;//输出该位置对应的章节
 			while (true)
 			{
-				if (fi > book[l].pages[j] && fi < book[l].pages[j + 1])
+				if (fi > book[l].pages[m] && fi < book[l].pages[m + 1])
 					break;
 				m++;
 			}
