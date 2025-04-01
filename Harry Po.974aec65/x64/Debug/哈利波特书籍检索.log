@@ -1,0 +1,8 @@
+﻿  哈利波特书籍检索.cpp
+D:\source\repos\哈利波特书籍检索\Search.h(10,17): warning C4101: “endtime”: 未引用的局部变量
+  (编译源文件“哈利波特书籍检索.cpp”)
+  
+D:\source\repos\哈利波特书籍检索\Search.h(10,6): warning C4101: “begintime”: 未引用的局部变量
+  (编译源文件“哈利波特书籍检索.cpp”)
+  
+  哈利波特书籍检索.vcxproj -> D:\source\repos\哈利波特书籍检索\x64\Debug\Harry Potter Book Select.exe
